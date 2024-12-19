@@ -1,0 +1,11 @@
+Kind,Name,AvgCountLine,AvgCountLineBlank,AvgCountLineCode,AvgCountLineComment,AvgCyclomatic,CountClassBase,CountClassCoupled,CountClassCoupledModified,CountClassDerived,CountDeclClass,CountDeclClassMethod,CountDeclClassVariable,CountDeclExecutableUnit,CountDeclFile,CountDeclFunction,CountDeclInstanceMethod,CountDeclInstanceVariable,CountDeclMethod,CountDeclMethodAll,CountDeclMethodDefault,CountDeclMethodPrivate,CountDeclMethodProtected,CountDeclMethodPublic,CountInput,CountLine,CountLineBlank,CountLineCode,CountLineCodeDecl,CountLineCodeExe,CountLineComment,CountOutput,CountSemicolon,CountStmt,CountStmtDecl,CountStmtExe,Cyclomatic,MaxCyclomatic,MaxInheritanceTree,MaxNesting,PercentLackOfCohesion,PercentLackOfCohesionModified,RatioCommentToCode,SumCyclomatic,CountCCViol,CountCCViolType,CCViolDensityLine,CCViolDensityCode,Priority
+File,SessionHiveMetaStoreClient.java,16,1,14,2,3,,,,,3,8,1,55,,55,47,5,55,,3,29,2,21,,1032,86,811,313,452,137,,368,546,242,411,,9,,4,,,0.17,166,0,0,0.0,0.0,Blocker
+File,TestTxnNoBuckets.java,46,3,33,10,2,,,,,1,0,2,16,,16,16,1,16,,1,2,0,13,,788,48,565,257,437,180,,347,384,120,294,,6,,1,,,0.32,28,0,0,0.0,0.0,Blocker
+File,VectorCoalesce.java,41,5,28,8,6,,,,,1,0,1,5,,5,5,2,5,,0,0,0,5,,252,36,154,39,102,62,,91,123,44,79,,27,,7,,,0.4,31,0,0,0.0,0.0,Critical
+File,StringColumnStatsAggregator.java,54,1,48,6,6,,,,,4,0,1,5,,5,5,0,5,,0,0,0,5,,304,12,245,71,185,47,,142,181,71,136,,20,,5,,,0.19,32,0,0,0.0,0.0,Major
+File,TableExport.java,14,0,13,1,3,,,,,3,0,1,15,,15,15,13,15,,1,8,0,6,,315,23,248,78,139,44,,114,162,74,101,,7,,4,,,0.18,46,0,0,0.0,0.0,Major
+File,SessionHiveMetaStoreClient.java,16,1,14,2,3,,,,,3,8,1,55,,55,47,5,55,,3,29,2,21,,1032,86,811,313,452,137,,368,546,242,411,,9,,4,,,0.17,166,0,0,0.0,0.0,Blocker
+File,TestTxnNoBuckets.java,46,3,33,10,2,,,,,1,0,2,16,,16,16,1,16,,1,2,0,13,,788,48,565,257,437,180,,347,384,120,294,,6,,1,,,0.32,28,0,0,0.0,0.0,Blocker
+File,VectorCoalesce.java,41,5,28,8,6,,,,,1,0,1,5,,5,5,2,5,,0,0,0,5,,252,36,154,39,102,62,,91,123,44,79,,27,,7,,,0.4,31,0,0,0.0,0.0,Critical
+File,StringColumnStatsAggregator.java,54,1,48,6,6,,,,,4,0,1,5,,5,5,0,5,,0,0,0,5,,304,12,245,71,185,47,,142,181,71,136,,20,,5,,,0.19,32,0,0,0.0,0.0,Major
+File,TableExport.java,14,0,13,1,3,,,,,3,0,1,15,,15,15,13,15,,1,8,0,6,,315,23,248,78,139,44,,114,162,74,101,,7,,4,,,0.18,46,0,0,0.0,0.0,Major
